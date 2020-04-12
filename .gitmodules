@@ -1,0 +1,15 @@
+[submodule "my_plugins/vim-sublime-monokai"]
+	path = my_plugins/vim-sublime-monokai
+	url = https://github.com/ErichDonGubler/vim-sublime-monokai
+[submodule "my_plugins/python-mode"]
+	path = my_plugins/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule "my_plugins/vim-easytags"]
+	path = my_plugins/vim-easytags
+	url = https://github.com/xolox/vim-easytags.git
+[submodule "my_plugins/tagbar"]
+	path = my_plugins/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "my_plugins/vim-misc"]
+	path = my_plugins/vim-misc
+	url = https://github.com/xolox/vim-misc.git
