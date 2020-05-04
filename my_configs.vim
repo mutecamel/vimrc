@@ -7,6 +7,9 @@ set so=999
 
 set expandtab
 
+" Keep syntax-highlighting for large file
+set redrawtime=10000
+
 " Override vim's italic codes
 " > https://www.reddit.com/r/vim/comments/24g8r8/italics_in_terminal_vim_and_tmux/
 " > Note that the character ^[ must be entered with <C-V><Esc>.
@@ -41,3 +44,4 @@ autocmd BufWritePre *.py execute ':Black'
 
 " Plugin python-mode
 let g:pymode_folding = 0
+
